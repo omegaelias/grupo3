@@ -1,2 +1,3 @@
-# grupo3
+# grupo3 Yanina
+
 proyecto de SO y ISBHD
